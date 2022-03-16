@@ -1,7 +1,7 @@
 ### Olá! sou o Matheus 👋
 
-- 🌱 Aprendendo: Java e C#
-- 🧑‍🎓 Estudando Analise e desenvolvimento de sistemas
+- 🌱 Aprendendo: C#
+- 🧑‍🎓 Formado em Analise e desenvolvimento de sistemas
 - 🏫 UNIP Universidade paulista
 
 ##
@@ -14,7 +14,6 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="matt-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="matt-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="matt-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="matt-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="matt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
