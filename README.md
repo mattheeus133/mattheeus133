@@ -1,6 +1,6 @@
 ### Olá! sou o Matheus 👋
 
-- 🌱 Aprendendo: C#
+- 🌱 Foco em BackEnd
 - 🧑‍🎓 Formado em Analise e desenvolvimento de sistemas
 - 🏫 UNIP Universidade paulista
 
