@@ -1,6 +1,6 @@
 ### Olá! sou o Matheus 👋
 
-- 🌱 Foco em BackEnd
+- 🌱 Front-end e Back-end
 - 🧑‍🎓 Formado em Analise e desenvolvimento de sistemas
 - 🏫 UNIP Universidade paulista
 
